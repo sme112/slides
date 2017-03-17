@@ -1,6 +1,6 @@
 ## General Slides
 
-General slide decks for the chapter with are not associated with a specific chatper event.
+General slide decks for the chapter which are not associated with a specific chapter event.
 
 ### License
 
